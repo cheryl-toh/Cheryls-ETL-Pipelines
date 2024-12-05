@@ -29,4 +29,4 @@ The complete documentation for this project is located within the `ipynb` file i
 
 ---
 
-If you encounter any issues, refer to the notebook for more detailed explanations or contact the cheryltqr2907@gmail.com.
+If you encounter any issues, refer to the notebook for more detailed explanations or contact cheryltqr2907@gmail.com.
