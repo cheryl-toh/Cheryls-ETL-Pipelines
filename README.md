@@ -24,8 +24,8 @@ Once the repository is downloaded or cloned, navigate to the folder containing t
 2. Run the cells to execute the code and follow the documentation within the notebook to understand the steps and logic of the pipeline.
 
 ## 4. Locate Documentation
+The complete documentation for this project is located within the `ipynb` file itself. It includes explanations of the code, steps in the ETL pipeline, and detailed insights into how the project works. If you prefer a static version, a `PDF` version of the notebook is also available. Both versions contain the same documentation and can be used interchangeably. Simply open either of the files to view the documentation alongside the code.
 
-The complete documentation for this project is located within the `ipynb` file itself. It includes explanations of the code, steps in the ETL pipeline, and detailed insights into how the project works. Simply open the notebook to view the documentation alongside the code.
 
 ---
 
